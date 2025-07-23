@@ -140,3 +140,5 @@
 /Users/alen/Desktop/teddy .net/api/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 /Users/alen/Desktop/teddy .net/api/bin/Debug/net8.0/Newtonsoft.Json.dll
 /Users/alen/Desktop/teddy .net/api/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/Users/alen/Desktop/teddy .net/api/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/alen/Desktop/teddy .net/api/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
